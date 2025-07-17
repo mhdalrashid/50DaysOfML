@@ -28,7 +28,7 @@ This project aims to predict whether a flight will be delayed or on-time using L
 
 ---
 
-## 🔁 Step-by-Step Workflow
+## 📈 Workflow Summary
 - Data loading & exploration
 - Visual EDA
 - Data preprocessing (encoding, scaling)
