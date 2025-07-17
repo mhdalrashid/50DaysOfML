@@ -11,7 +11,7 @@ To kick things off, I built a **simple linear regression** model to predict stud
 
 ---
 
-## 📁 Dataset Overview
+## 📥 Dataset Overview
 
 - **Source**: [Supervised ML - Student Scores Dataset](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams) (used version from open GitHub link)
 - **Shape**: 25 rows × 2 columns
