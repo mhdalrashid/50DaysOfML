@@ -48,7 +48,7 @@ This project aims to predict whether a flight will be delayed or on-time using L
 
 ---
 
-## 💡 What I Learned
+## 💬 What I Learned
 - Applied logistic regression to a real-world classification problem
 - Learned how to handle categorical variables in airlines data
 - Practiced interpreting precision-recall tradeoffs
