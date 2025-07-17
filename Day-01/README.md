@@ -63,7 +63,8 @@ To kick things off, I built a **simple linear regression** model to predict stud
 
 ## 🔗 Resources
 
-- 📘 [Dataset GitHub Source](https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv)
+- 📥 [Dataset GitHub Source](https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv)
+- 📒 [Colab Notebook](https://colab.research.google.com/drive/1I3rCN63q8paAfyZjQiHlk_4KDZdZqbge)
 
 ---
 
