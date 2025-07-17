@@ -1,4 +1,4 @@
-# 🏡 Day 2: Predict House Prices using Multivariate Linear Regression
+# 🏡 Day 2 : Predict House Prices using Multivariate Linear Regression
 
 Welcome to Day 2 of my **#50DaysOfML Challenge**!  
 In this project, I built a **multivariate linear regression** model to predict house prices using the **California Housing** dataset.
@@ -64,6 +64,6 @@ In this project, I built a **multivariate linear regression** model to predict h
 ## 🔗 Resources
 
 - 📥 [Scikit-learn California Dataset Docs](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset)
-- 📒 [Colab Notebook](https://colab.research.google.com/drive/https://colab.research.google.com/drive/1vISJ4OjZVYGiyfS-8a9fXDArUTnA2n65#scrollTo=814da21f)
+- 📒 [Colab Notebook](https://colab.research.google.com/drive/1vISJ4OjZVYGiyfS-8a9fXDArUTnA2n65)
 
 ---
