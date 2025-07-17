@@ -1,4 +1,4 @@
-# 📚 Day 1: Student Score Prediction using Simple Linear Regression
+# 🏡 Day 1: Student Score Prediction using Simple Linear Regression
 
 Welcome to Day 1 of my **#50DaysOfML Challenge**!  
 To kick things off, I built a **simple linear regression** model to predict student scores based on their study hours.
