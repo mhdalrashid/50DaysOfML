@@ -44,7 +44,7 @@ To kick things off, I built a **simple linear regression** model to predict stud
 
 ---
 
-## ✅ Key Results
+## 📌 Key Evaluation Metrics
 
 - **MAE**: ~4.18  
 - **R² Score**: ~0.95  
@@ -63,7 +63,6 @@ To kick things off, I built a **simple linear regression** model to predict stud
 
 ## 🔗 Resources
 
-- 📒 [Colab Notebook](https://colab.research.google.com/drive/1I3rCN63q8paAfyZjQiHlk_4KDZdZqbge)
 - 📘 [Dataset GitHub Source](https://raw.githubusercontent.com/AdiPersonalWorks/Random/master/student_scores%20-%20student_scores.csv)
 
 ---
