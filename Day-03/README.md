@@ -1,4 +1,4 @@
-# ✈️ Flight Delay Prediction using Logistic Regression
+# 🏡 Day 3 : ✈️ Flight Delay Prediction using Logistic Regression
 
 ## 📊 Problem Statement
 This project aims to predict whether a flight will be delayed or on-time using Logistic Regression. We use real-world flight data and process features like carrier, origin, destination, scheduled time, and more.
@@ -57,6 +57,7 @@ This project aims to predict whether a flight will be delayed or on-time using L
 ---
 
 ## 🔗 Links
-- [📁 GitHub Repo](https://github.com/mhdalrashid/50DaysOfML/tree/main/Day-03)
-- [🛫 Dataset Source](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses)
+- [📥 Dataset Source](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses)
+- [📒 Colab Notebook](https://colab.research.google.com/drive/1w6uWHwOrM7OvE3q4AEtf0MwVLxg4BA8I)
+
 
