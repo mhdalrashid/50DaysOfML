@@ -11,7 +11,7 @@ In this project, I built a **multivariate linear regression** model to predict h
 
 ---
 
-## 📁 Dataset Overview
+## 📥  Dataset Overview
 
 - **Source**: `sklearn.datasets.fetch_california_housing`
 - **Shape**: 20,640 rows × 9 columns
@@ -44,7 +44,7 @@ In this project, I built a **multivariate linear regression** model to predict h
 
 ---
 
-## ✅ Key Results
+## 📌 Key Evaluation Metrics
 
 - **MAE**: ~0.53  
 - **RMSE**: ~0.75  
