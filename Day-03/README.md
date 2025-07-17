@@ -1,6 +1,6 @@
 # ✈️ Flight Delay Prediction using Logistic Regression
 
-## 📊 Project Summary
+## 📊 Problem Statement
 This project aims to predict whether a flight will be delayed or on-time using Logistic Regression. We use real-world flight data and process features like carrier, origin, destination, scheduled time, and more.
 
 ---
