@@ -6,7 +6,7 @@ This project aims to predict whether a flight will be delayed or on-time using L
 ---
 
 ## 📥 Dataset Overview
-- **Source**: [OpenFlights Delay Dataset or similar]  
+- [📥 Dataset Source](https://www.kaggle.com/datasets/giovamata/airlinedelaycauses)
 - **Features**:
   - Airline Carrier
   - Departure Time
