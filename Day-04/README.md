@@ -1,4 +1,4 @@
-# Day 4:🏠 Ridge & Lasso Regression - House Price Prediction
+# Day 4 : 🏠 Ridge & Lasso Regression - House Price Prediction
 
 On Day 4 of the **#50DaysOfML Challenge**, I explored **regularization techniques** in regression using the famous Boston Housing dataset. I implemented and compared **Linear Regression**, **Ridge Regression**, and **Lasso Regression** to understand how each model deals with overfitting and feature importance.
 
