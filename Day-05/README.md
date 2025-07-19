@@ -71,5 +71,5 @@ The goal is to predict the **selling price** of used cars based on features like
 
 #### 🔗 Links
 
-- 📒 **Colab Notebook**: [https://colab.research.google.com/drive/10LnXhN3LKGf4WBCxOdGoiGJIMO7y3K0U#scrollTo=SwcQcsZ3tEJe)  
+- 📒 **Colab Notebook**: https://colab.research.google.com/drive/10LnXhN3LKGf4WBCxOdGoiGJIMO7y3K0U#scrollTo=SwcQcsZ3tEJe
 - 📊 **Dataset Source**: [Kaggle Dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho)
